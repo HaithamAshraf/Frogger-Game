@@ -1,0 +1,249 @@
+﻿  Collision.cpp
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(66,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(67,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(69,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(69,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(70,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(70,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(132,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(133,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(133,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\haisa\source\repos\Frogger\Collision.cpp(134,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  level1.cpp
+C:\Users\haisa\source\repos\Frogger\level1.cpp(196,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(196,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(200,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(200,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(204,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(204,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(208,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(208,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(212,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(212,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(216,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(216,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(220,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(220,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(241,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(249,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(257,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(265,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(273,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(281,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(289,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(297,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(305,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(313,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(323,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(331,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(339,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(348,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(356,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(364,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(373,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(381,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(389,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(398,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(406,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(414,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(424,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(432,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(440,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(448,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(456,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(464,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(472,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level1.cpp(507,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\level1.cpp(535,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\level1.cpp(613,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  level2.cpp
+C:\Users\haisa\source\repos\Frogger\level2.cpp(199,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(199,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(203,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(203,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(207,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(207,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(211,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(211,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(215,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(215,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(219,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(219,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(223,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(223,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(244,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(252,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(260,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(268,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(276,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(284,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(292,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(300,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(308,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(316,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(326,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(334,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(342,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(351,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(359,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(367,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(376,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(384,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(392,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(401,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(409,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(417,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(427,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(435,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(443,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(451,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(459,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(467,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(475,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level2.cpp(510,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\level2.cpp(538,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\level2.cpp(624,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  level3.cpp
+C:\Users\haisa\source\repos\Frogger\level3.cpp(198,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(198,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(202,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(202,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(206,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(206,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(210,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(210,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(214,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(214,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(218,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(218,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(222,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(222,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(243,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(251,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(259,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(267,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(275,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(283,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(291,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(299,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(307,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(315,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(325,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(333,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(341,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(350,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(358,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(366,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(375,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(383,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(391,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(400,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(408,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(416,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(426,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(434,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(442,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(450,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(458,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(466,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(474,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haisa\source\repos\Frogger\level3.cpp(509,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\level3.cpp(537,29): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\level3.cpp(630,10): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Main.cpp
+  menu.cpp
+C:\Users\haisa\source\repos\Frogger\menu.cpp(10,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\menu.cpp(16,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\menu.cpp(22,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haisa\source\repos\Frogger\menu.cpp(28,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  menu222.cpp
+C:\Users\haisa\source\repos\Frogger\menu222.cpp(20,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\haisa\source\repos\Frogger\menu222.cpp(20,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  name input.cpp
+  score.cpp
+  Generating Code...
+  SFML c++.vcxproj -> C:\Users\haisa\source\repos\Frogger\x64\Debug\SFML c++.exe
